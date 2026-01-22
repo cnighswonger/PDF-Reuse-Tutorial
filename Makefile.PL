@@ -21,6 +21,12 @@ WriteMakefile(
                 web => 'https://github.com/cnighswonger/PDF-Reuse-Tutorial/issues',
             },
         },
+        provides => {
+            'PDF::Reuse::Tutorial' => {
+                file    => 'Tutorial.pm',
+                version => '0.13',
+            },
+        },
     },
     ($] >= 5.005 ?    ## Add these new keywords supported since 5.005
       (ABSTRACT_FROM => 'Tutorial.pm', # retrieve abstract from module

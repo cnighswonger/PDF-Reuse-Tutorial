@@ -1,5 +1,9 @@
 Revision history for Perl extension PDF::Reuse::Tutorial.
 
+0.13  Thu Jan 22 2026
+      Address CPANTS Kwalitee metrics: add provides, LICENSE,
+      SECURITY.md, CONTRIBUTING.md
+
 0.12  Thu Jan 22 2026
       Added section on placeholder replacement with form fields (RT #54199)
       Added GitHub repository and bugtracker metadata

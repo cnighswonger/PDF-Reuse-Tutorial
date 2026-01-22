@@ -1,7 +1,10 @@
 Changes
+CONTRIBUTING.md
+LICENSE
 Makefile.PL
 MANIFEST
 README
+SECURITY.md
 Tutorial.pm
 t/1.t
 examples/customerResponse.js
